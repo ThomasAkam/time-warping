@@ -4,7 +4,7 @@ This repository contains Python code for time-warping neurophysiological data to
 
 ##  Align spikes
 
-The *align_spikes* function is used to align spike activity in the form of spike times and corresponding neuron IDs.   Its is described [Samborska et al. bioRxiv 2021](https://www.biorxiv.org/content/10.1101/2021.03.05.433967v2) and illustrated in figure S4 of that manuscript, reproduced below.  
+The *align_spikes* function is used to align spike activity in the form of spike times and corresponding neuron IDs.   It is described [Samborska et al. Nature Neuroscience 2022](https://www.nature.com/articles/s41593-022-01149-8) and illustrated in figure S4 of that manuscript, reproduced below.  
 
 ![align_spikes](./media/align_spikes.png)
 
